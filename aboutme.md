@@ -1,13 +1,13 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Number 1 Cat Safe House Plant
+subtitle: Peperomia Obtusifolia
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Also known as baby rubber plant
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- office-friendly 
+- produces tiny white flowers
 
 What else do you need?
 
